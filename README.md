@@ -310,10 +310,8 @@ it's not a good practice to use `innerText` when setting the contents of an
 element. [This StackOverflow answer][so-answer] does a good job explaining some
 differences between these properties.
 
-[mdn-textcontent]:
-  https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent
-[mdn-innerhtml]:
-  https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML
+[mdn-textcontent]: https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent
+[mdn-innerhtml]: https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML
 [so-answer]: https://stackoverflow.com/a/35213639
 
 ## Resources
@@ -325,6 +323,5 @@ differences between these properties.
 - [classList Property][classlist]
 
 [to-string]: https://www.w3schools.com/jsref/jsref_tostring_string.asp
-[code-injection]:
-  https://www.reddit.com/r/learnjavascript/comments/9502x5/is_innerhtml_still_considered_bad/e3p31go/?utm_source=share&utm_medium=web2x&context=3
+[code-injection]: https://www.reddit.com/r/learnjavascript/comments/9502x5/is_innerhtml_still_considered_bad/e3p31go/?utm_source=share&utm_medium=web2x&context=3
 [classlist]: https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
